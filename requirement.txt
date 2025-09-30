@@ -38,7 +38,7 @@ regex==2021.7.6
 s3transfer==0.5.0
 sacremoses==0.0.45
 scikit-image
-scikit-learn==0.24.2
+scikit-learn
 scipy==1.5.4
 sentencepiece==0.1.96
 simpleitk==2.0.2
