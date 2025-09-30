@@ -17,7 +17,7 @@ echo $name
 if ${train}
 then
 	
-	cd /home/xychen/jsguo/nnFormer/nnformer/
+	cd /kaggle/working/nnFormer/nnformer/
 	CUDA_VISIBLE_DEVICES=${cuda} nnFormer_train 3d_fullres nnFormerTrainerV2_${name} ${task} 0
 fi
 
